@@ -14,7 +14,7 @@
 body {
     background-image: url(./assets/technology/background-technology-mobile.jpg);
     background-repeat: no-repeat;
-    overflow: hidden;
+/*     overflow: hidden; */
     background-size: cover;
 }
 
